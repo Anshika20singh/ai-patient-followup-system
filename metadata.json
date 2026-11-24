@@ -1,6 +1,8 @@
 {
-  "name": "PulseCare AI – Patient Follow-up & Medicine Reminder",
-  "description": "AI-based patient follow-up, medicine reminder, and risk triage system for healthcare staff and post-discharge patients.",
+  "name": "MediCare AI",
+  "description": "Smart Patient Follow-up & Medicine Reminder System for post-discharge care coordination, medication adherence tracking, appointment scheduling, and rule-based patient monitoring.",
   "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
 }
